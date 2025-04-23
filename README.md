@@ -31,7 +31,7 @@ This project demonstrates how to use [Excalidraw](https://github.com/excalidraw/
 2. **Install Dependencies**
    ```bash
    npm install
-   
+
 3. **Run the development server**
    ```bash
    npm run dev
@@ -53,7 +53,7 @@ This project demonstrates how to use [Excalidraw](https://github.com/excalidraw/
 
    export default Whiteboard;
 
-6. **📦 Make sure you have @excalidraw/excalidraw installed:** 
+6. **📦 Make sure you have @excalidraw/excalidraw installed:**
    ```bash
    npm install @excalidraw/excalidraw
 
